@@ -3,7 +3,7 @@ import com.microsoft.playwright.Page;
 import com.microsoft.playwright.Playwright;
 import org.junit.jupiter.api.Test;
 
-public class installatietest {
+public class InstallatieTest {
 
     @Test
     public void areYouReady() {
@@ -18,3 +18,6 @@ public class installatietest {
         playwright.close();
     }
 }
+
+
+
